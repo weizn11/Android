@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1408880012 source:e:\c语言\齐鲁软件设计大赛_手机游戏_server\recv.c
+	"global.h"
+	"recv.h"
+	"analysis.h"
+
+1407374856 e:\c语言\齐鲁软件设计大赛_手机游戏_server\recv.h
+
+1408006635 e:\c语言\齐鲁软件设计大赛_手机游戏_server\global.h
+	<winsock2.h>
+
+1408006764 source:e:\c语言\齐鲁软件设计大赛_手机游戏_server\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<winsock2.h>
+	<time.h>
+	<conio.h>
+	"global.h"
+	"recv.h"
+	"analysis.h"
+
+1408879836 source:e:\c语言\齐鲁软件设计大赛_手机游戏_server\analysis.c
+	"global.h"
+	"analysis.h"
+
+1408006635 e:\c语言\齐鲁软件设计大赛_手机游戏_server\analysis.h
+

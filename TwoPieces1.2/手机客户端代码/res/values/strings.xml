@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">两块子儿</string>
+    <string name="desc">描述这个控件的作用</string>
+    <string name="about">DK小组出品</string>
+    <string name="ok">NEXT</string>
+    <string name="bn0">1</string>
+    <string name="bn1">2</string>
+    <string name="bn2">3</string>
+    <string name="bn3">4</string>
+    <string name="bn4">5</string>
+    <string name="bn5">6</string>
+    
+
+</resources>
